@@ -1,0 +1,3 @@
+## What is ACID?
+
+ACID stands for Atomic, ....
